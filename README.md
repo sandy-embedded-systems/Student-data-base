@@ -78,3 +78,9 @@ SUPPORTING FUNCTIONS:
                 If it is a valid contact number ,it returns 0 else 1.
         _Bool check_name(const char*);
                 This functions observes if there is/are any chrecters other than alphabets.
+
+
+INSTRUCTIONS :
+        You should download all the files in this folder , otherwise the main_app program will not run .
+        This project is created using GCC compiler and Make utility , meaning that copy these files into your current directory and use make command in the linux terminal to create an executable file
+        
